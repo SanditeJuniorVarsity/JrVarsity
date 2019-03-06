@@ -1,7 +1,7 @@
 int main()
 {
    enable_servos();
-    
+    //enable_servos
     set_servo_position(0,0);
    set_servo_position(3,0);
     msleep(1000);
